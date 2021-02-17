@@ -9,7 +9,7 @@ We are going to use  the *diamonds* dataset from *ggplot2* package.
 
  Our hypothesis are:
 
-*    **Null Hypothesis**: the mean of attrition is equal across the three departments. the mean of carat weight of the diamond is equal across all the quality cuts (Fair, Good, Very Good, Premium, Ideal)
+*    **Null Hypothesis**:  the mean of carat weight of the diamond is equal across all the quality cuts (Fair, Good, Very Good, Premium, Ideal)
 *    **Alternative hypothesis**: The mean carat is distinct in cuts.
 
 ## 1. Import and exploring dataset
